@@ -80,11 +80,11 @@ Once trained, the surrogate replaces expensive FEM calls during optimization.
 
 **FEM Displacement Field:**
 <!-- Add FEM displacement field image here -->
-![FEM Displacement Field](figures/images/displacement_field.pdf)
+![FEM Displacement Field](displacement_field.pdf)
 
 **FEM Error Field:**
 <!-- Add FEM error field image here -->
-![FEM Error](figures/images/error.pdf)
+![FEM Error](error.pdf)
 
 ---
 
@@ -99,15 +99,15 @@ Once trained, the surrogate replaces expensive FEM calls during optimization.
 
 **GP Training History:**
 <!-- Add training history image here -->
-![Training History](figures/images/training_history.pdf)
+![Training History](training_history.pdf)
 
 **GP Predicted Displacement Field:**
 <!-- Add GP displacement field image here -->
-![GP Displacement Field](figures/images/gp_predictions_displacement_field.pdf)
+![GP Displacement Field](gp_predictions_displacement_field.pdf)
 
 **GP Error Field:**
 <!-- Add GP error field image here -->
-![GP Error](figures/images/surrogate_error.pdf)
+![GP Error](surrogate_error.pdf)
 
 ---
 
