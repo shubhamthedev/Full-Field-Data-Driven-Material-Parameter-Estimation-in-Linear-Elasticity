@@ -65,7 +65,7 @@ Once trained, the surrogate replaces expensive FEM calls during optimization.
 > *Raw DIC displacement data used for calibration*
 
 <!-- Add experimental displacement image here -->
-![Experimental Displacement](figures/images/experimental_displacement.pdf)
+![Experimental Displacement](experimental_displacement.pdf)
 
 ---
 
